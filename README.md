@@ -95,8 +95,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ## 📫 Connect With Me
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** ahmed.abbas.elatwy@gmail.com
 - **GitHub:** [https://github.com/AhmedElatwy](https://github.com/AhmedElatwy)
 
 ## 📄 Certifications
