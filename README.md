@@ -24,60 +24,67 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Provided strategic recommendations for product placement and promotions
 
 ### [2. E-Commerce Business Analysis](Projects/E-Commerce-Analysis)
-**Tools:** Power BI, Python, Data Visualization
+**Tools:** Power BI, Python, Statistics
 - Developed comprehensive sales dashboards
 - Analyzed customer behavior and purchase patterns
 - Identified growth opportunities and seasonal trends
 
-### [3. Social Media Emotions Analysis](Projects/Social-Media-Emotions)
+### [3. Telco Customer Churn Analysis](Projects/Telco-Customer-Churn-Analysis)
+**Tools:** Power BI, Python, Statistics
+- Identify key drivers of customer churn
+- Predict customers at high risk of leaving
+- Provide actionable insights for retention strategies
+- Reduce churn rates through data-driven interventions
+  
+### [4. Social Media Emotions Analysis](Projects/Social-Media-Emotions)
 **Tools:** Python, Text Analysis, Machine Learning
 - Performed sentiment analysis on social media posts
 - Classified emotions using machine learning algorithms
 - Visualized emotional trends and patterns
 
-### [4. British Airways Reviews Analysis](Projects/British-Airways-Reviews-Analysis)
+### [5. British Airways Reviews Analysis](Projects/British-Airways-Reviews-Analysis)
 **Tools:** Python, Web Scraping, Sentiment Analysis
 - Collected and analyzed customer reviews
 - Identified key satisfaction drivers and pain points
 - Provided insights for service improvement
 
-### [5. Stock Market Analysis (2020-2024)](Projects/Stock-Market-Analysis-2020-2024)
+### [6. Stock Market Analysis (2020-2024)](Projects/Stock-Market-Analysis-2020-2024)
 **Tools:** Python, Financial Analysis, Time Series
 - Analyzed stock performance across multiple sectors
 - Identified market trends and volatility patterns
 - Developed risk assessment models
 
-### [6. Global Traffic Index Analysis](Projects/Traffic-Index)
+### [7. Global Traffic Index Analysis](Projects/Traffic-Index)
 **Tools:** Python, Data Visualization, Comparative Analysis
 - Analyzed traffic patterns across major cities
 - Identified congestion factors and peak hours
 - Provided urban planning insights
 
-### [7. Retail Sales Analysis](Projects/retail-analysis)
+### [8. Retail Sales Analysis](Projects/retail-analysis)
 **Tools:** Excel, Power BI, Business Intelligence
 - Comprehensive sales performance analysis
 - Inventory optimization recommendations
 - Customer segmentation and targeting strategies
 
-### [8. International Retail Sales Analysis](Projects/International_retail_sales_analysis)
+### [9. International Retail Sales Analysis](Projects/International_retail_sales_analysis)
 **Tools:** Power BI, Comparative Analysis, Market Research
 - Cross-country sales performance comparison
 - Market entry strategy recommendations
 - Cultural and regional buying pattern analysis
 
-### [9. Supermarket Performance Analysis](Projects/SuperMarket_Analysis)
+### [10. Supermarket Performance Analysis](Projects/SuperMarket_Analysis)
 **Tools:** Excel, Data Modeling, Business Analytics
 - Store performance benchmarking
 - Product category optimization
 - Customer loyalty program analysis
 
-### [10. Real Estate House Sales Analysis](Projects/HouseSales)
+### [11. Real Estate House Sales Analysis](Projects/HouseSales)
 **Tools:** Python, Real Estate Analytics, Geographic Analysis
 - Property value trend analysis
 - Location-based pricing strategies
 - Market demand forecasting
 
-### [11. IBM Data Analytics Capstone](Projects/ibm-capstone)
+### [12. IBM Data Analytics Capstone](Projects/ibm-capstone)
 **Tools:** Python, End-to-End Data Analysis, Machine Learning
 - Comprehensive data analysis project covering entire pipeline
 - Predictive modeling and business insights
