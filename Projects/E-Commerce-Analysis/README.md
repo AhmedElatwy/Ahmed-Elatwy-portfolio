@@ -1,5 +1,7 @@
 # E-Commerce Data Analysis & Customer Segmentation Project
 
+# [Notebook Link](https://www.kaggle.com/code/ahmedealtwy/e-commerce-analysis)
+
 ## 📖 Project Overview
 
 This project conducts a deep-dive analysis of a transnational e-commerce dataset to uncover actionable business insights. The goal was to move beyond simple reporting and build a data-driven framework for understanding customer behavior, optimizing marketing strategies, and driving revenue growth. The final deliverable is an interactive Power BI dashboard and a strategic executive summary.
