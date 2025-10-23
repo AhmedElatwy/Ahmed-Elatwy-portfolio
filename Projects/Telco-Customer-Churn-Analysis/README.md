@@ -7,6 +7,8 @@
 
 A comprehensive data analysis and machine learning project to understand and predict customer churn in the telecommunications industry.
 
+![Project Link](https://www.kaggle.com/code/ahmedealtwy/analyze-customer-churn-for-a-telecom-company)
+
 ## 🎯 Business Problem
 
 Customer churn is a critical challenge for telecom companies, costing the industry billions annually. This project aims to:
