@@ -7,7 +7,7 @@
 
 A comprehensive data analysis and machine learning project to understand and predict customer churn in the telecommunications industry.
 
-![Project Link](https://www.kaggle.com/code/ahmedealtwy/analyze-customer-churn-for-a-telecom-company)
+# [Notebook Link](https://www.kaggle.com/code/ahmedealtwy/analyze-customer-churn-for-a-telecom-company)
 
 ## 🎯 Business Problem
 
