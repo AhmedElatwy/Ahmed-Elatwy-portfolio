@@ -36,7 +36,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Provide actionable insights for retention strategies
 - Reduce churn rates through data-driven interventions
 
-  ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
+### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
