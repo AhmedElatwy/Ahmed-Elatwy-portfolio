@@ -1,7 +1,7 @@
 # Project: Employee Retention Analysis & Prediction 
 
 ## Goal: Identify root causes of 16% attrition rate and build a risk model. Tools: Python, Pandas, Scikit-Learn, Random Forest.
-جs
+
 ![Alt Text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/f3f1f5b966048aff772f9c8b378f92ddefecd10b/Projects/IBM-HR-Analysis/Visuals/IBM%20HR%20Attrition%20Dashboard.png)
 
 ### Key Insights:
@@ -16,7 +16,7 @@
 
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
   
- ![Alt Text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/f3f1f5b966048aff772f9c8b378f92ddefecd10b/Projects/IBM-HR-Analysis/Visuals/What%20Drives%20Attrition.png)
+! [Alt Text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/f3f1f5b966048aff772f9c8b378f92ddefecd10b/Projects/IBM-HR-Analysis/Visuals/What%20Drives%20Attrition.png)
 
 
 ## Recommendation: Increase base pay for Junior Sales Reps and cap overtime hours to reduce attrition by an estimated 15%.
