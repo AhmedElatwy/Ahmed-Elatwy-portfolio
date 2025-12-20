@@ -1,5 +1,5 @@
 # London-Bike-Sharing-Analysis
-![Alt text](https://github.com/AhmedElatwy/London-Bike-Sharing-Analysis/blob/87dbe42c757d2c56ee0d81cb0bb1e1111587c8b2/Visuals/London%20Bike%20Dashboard%20.png)
+![Alt text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/d5d0ac82ed5c0726882f0eb2468114879d5b7f25/Projects/London-Bike-Sharing-Analysis/Visuals/London%20Bike%20Dashboard%20.png)
 ## 1.	The Goal
 •	The objective of this project was to predict bike-sharing demand in London to optimize fleet logistics. Using historical data from 2015-2017, we analyzed the impact of weather and time on ridership.
 
@@ -15,7 +15,7 @@
   
   o	Seasonality: Demand hits rock bottom in December/January, making this the ideal window for heavy fleet maintenance.
   
-![Alt text](https://github.com/AhmedElatwy/London-Bike-Sharing-Analysis/blob/fe4e20a69bd7d2f6185794fb7a1d2303e52195ee/Visuals/Hourly%20Trend%20by%20Weekday.png)
+![Alt text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/d5d0ac82ed5c0726882f0eb2468114879d5b7f25/Projects/London-Bike-Sharing-Analysis/Visuals/Hourly%20Trend%20by%20Weekday.png)
 
 
 ## 3.	The Solution
@@ -26,7 +26,7 @@
 
 •	Reliability: The model successfully differentiates between high-demand scenarios (4,000+ bikes) and low-demand scenarios (less than 50 bikes) with high precision.
 
-![alt text](https://github.com/AhmedElatwy/London-Bike-Sharing-Analysis/blob/696d3a630ea03fb5542f1a34d85b46438708c1fe/Visuals/Actual%20vs%20Predicted%20Bike%20Shares.png)
+![alt text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/d5d0ac82ed5c0726882f0eb2468114879d5b7f25/Projects/London-Bike-Sharing-Analysis/Visuals/Actual%20vs%20Predicted%20Bike%20Shares.png)
 
 ## 4.	Recommendations for Operations
 
