@@ -41,7 +41,13 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
-  
+
+### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
+**Tools:** Power BI, Python, Statistics
+- Built a full-stack data solution combining a Python machine learning model for future predictions and a Power BI dashboard for historical analysis.
+- Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
+- Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
+
 ### [Social Media Emotions Analysis](Projects/Social-Media-Emotions)
 **Tools:** Python, Text Analysis, Machine Learning
 - Performed sentiment analysis on social media posts
