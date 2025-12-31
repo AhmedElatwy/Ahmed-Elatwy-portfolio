@@ -23,7 +23,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Analyzed customer behavior and purchase patterns
 - Identified growth opportunities and seasonal trends
 
-![E-Commerce Business Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/9e7bf7923a6d7d0baba8a59e1329b06ce29153cc/Projects/E-Commerce-Analysis/Visual/Summary%20Dashboard%202.png)
+![E-Commerce Business Analysis Dashboard](Projects/E-Commerce-Analysis/Visual/Summary-Dashboard-2.png)
 
 ### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
 **Tools:** Power BI, Python, Statistics
