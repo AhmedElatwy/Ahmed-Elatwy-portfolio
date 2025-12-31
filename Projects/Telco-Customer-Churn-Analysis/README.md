@@ -33,6 +33,6 @@ Customer churn is a critical challenge for telecom companies, costing the indust
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/6a2ed893ea0a5bb015488cc64f6796b5fa86b42b/Projects/Telco-Customer-Churn-Analysis/Visual/Telco%20Dashboard%202.png)
+![Telco Customer Churn Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/713966e2bf3b47c56f9af8924761147783bcaf34/Projects/Telco-Customer-Churn-Analysis/Visual/Telco%20Dashboard%203.png)
 
 *Interactive dashboard showing churn trends, customer segments, and predictive insights*
