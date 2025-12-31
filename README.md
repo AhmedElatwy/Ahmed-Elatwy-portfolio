@@ -23,11 +23,15 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Analyzed customer behavior and purchase patterns
 - Identified growth opportunities and seasonal trends
 
+![E-Commerce Business Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/9e7bf7923a6d7d0baba8a59e1329b06ce29153cc/Projects/E-Commerce-Analysis/Visual/Summary%20Dashboard%202.png)
+
 ### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Built a full-stack data solution combining a Python machine learning model for future predictions and a Power BI dashboard for historical analysis.
 - Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
 - Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
+
+![London Bike Sharing Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/d5d0ac82ed5c0726882f0eb2468114879d5b7f25/Projects/London-Bike-Sharing-Analysis/Visuals/London%20Bike%20Dashboard%20.png)
 
 ### [Telco Customer Churn Analysis](Projects/Telco-Customer-Churn-Analysis)
 **Tools:** Power BI, Python, Statistics
