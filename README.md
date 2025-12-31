@@ -17,17 +17,17 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ## 📊 Projects Portfolio
 
-### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
-**Tools:** Python, Pandas, Matplotlib, Statistical Analysis
-- Analyzed chip category performance across multiple regions
-- Identified key drivers of sales and customer preferences
-- Provided strategic recommendations for product placement and promotions
-
 ### [E-Commerce Business Analysis](Projects/E-Commerce-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Developed comprehensive sales dashboards
 - Analyzed customer behavior and purchase patterns
 - Identified growth opportunities and seasonal trends
+
+### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
+**Tools:** Power BI, Python, Statistics
+- Built a full-stack data solution combining a Python machine learning model for future predictions and a Power BI dashboard for historical analysis.
+- Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
+- Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
 
 ### [Telco Customer Churn Analysis](Projects/Telco-Customer-Churn-Analysis)
 **Tools:** Power BI, Python, Statistics
@@ -41,12 +41,12 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
-
-### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
-**Tools:** Power BI, Python, Statistics
-- Built a full-stack data solution combining a Python machine learning model for future predictions and a Power BI dashboard for historical analysis.
-- Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
-- Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
+  
+### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
+**Tools:** Python, Pandas, Matplotlib, Statistical Analysis
+- Analyzed chip category performance across multiple regions
+- Identified key drivers of sales and customer preferences
+- Provided strategic recommendations for product placement and promotions
 
 ### [Social Media Emotions Analysis](Projects/Social-Media-Emotions)
 **Tools:** Python, Text Analysis, Machine Learning
