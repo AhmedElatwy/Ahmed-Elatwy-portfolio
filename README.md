@@ -40,6 +40,9 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Provide actionable insights for retention strategies
 - Reduce churn rates through data-driven interventions
 
+![Telco Customer Churn Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/713966e2bf3b47c56f9af8924761147783bcaf34/Projects/Telco-Customer-Churn-Analysis/Visual/Telco%20Dashboard%203.png)
+
+
 ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Disproved the common belief that "lack of promotions" causes attrition.
