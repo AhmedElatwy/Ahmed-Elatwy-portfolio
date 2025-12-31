@@ -48,6 +48,8 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
+
+![Employee Retentio Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/a2a93e64d67afb96b215fa92f743a3af7feccc3a/Projects/IBM-HR-Analysis/Visuals/IBM%20HR%20Attrition%20Dashboard%202.png)
   
 ### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
 **Tools:** Python, Pandas, Matplotlib, Statistical Analysis
