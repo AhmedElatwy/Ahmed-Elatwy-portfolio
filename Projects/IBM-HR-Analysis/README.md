@@ -2,7 +2,7 @@
 
 ## Goal: Identify root causes of 16% attrition rate and build a risk model. Tools: Python, Pandas, Scikit-Learn, Random Forest.
 
-![Alt Text](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/f3f1f5b966048aff772f9c8b378f92ddefecd10b/Projects/IBM-HR-Analysis/Visuals/IBM%20HR%20Attrition%20Dashboard.png)
+![Employee Retentio Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/a2a93e64d67afb96b215fa92f743a3af7feccc3a/Projects/IBM-HR-Analysis/Visuals/IBM%20HR%20Attrition%20Dashboard%202.png)
 
 ### Key Insights:
 
