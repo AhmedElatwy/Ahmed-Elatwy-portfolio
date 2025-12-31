@@ -14,9 +14,7 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 ## 📊 Dashboard Preview
 
-[![Power BI Dashboard](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/be832f028003f3e61e8668d78b0638679e368a30/Visual/dashboard%201.png)
-
-*🔗 [Link to Interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=3d257d11-3cdd-4c23-8105-0e305a89c2be&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842)*
+![Power BI Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/9e7bf7923a6d7d0baba8a59e1329b06ce29153cc/Projects/E-Commerce-Analysis/Visual/Summary%20Dashboard%202.png)
 
 ## 🧰 Tools & Technologies
 
@@ -121,11 +119,3 @@ The analysis was synthesized into a strategic document for decision-makers. Key 
 - LinkedIn: [linkedin.com/in/ahmed-elatwy](https://www.linkedin.com/in/ahmed-elatwy/)
 - GitHub: [github.com/AhmedElatwy](https://github.com/AhmedElatwy)
 - Portfolio: [ahmedelatwy.github.io](https://ahmedelatwy.github.io/)
-
-## 🎓 Certifications
-- Google Advanced Data Analytics Certificate
-- IBM Data Analyst Professional Certificate
-
----
-
-**⭐️ Please star this repo if you found it helpful!**
