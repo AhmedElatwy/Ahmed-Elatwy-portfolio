@@ -1,5 +1,5 @@
 # E-Commerce-Revenue-Logistics-Analysis-SQL
-
+![Data Scheme](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/39976aabd0d77c3dee2cd191df1cc8ca6dac8a2b/Projects/E-Commerce-Revenue-Logistics-Analysis-SQL/data_scheme.png)
 ## Domain:
 E-Commerce / Operations
 ## Business Problem:
