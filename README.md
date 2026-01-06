@@ -42,15 +42,38 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ![Telco Customer Churn Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/713966e2bf3b47c56f9af8924761147783bcaf34/Projects/Telco-Customer-Churn-Analysis/Visual/Telco%20Dashboard%203.png)
 
+### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
+**Tools:** Power BI, Python, Statistics, Segmentation
+- Segmented a customer base to replace generic marketing with targeted, behavior-based campaigns.
+- Applied K-Means Clustering and PCA on financial data, utilizing Logarithmic Transformations to handle "Whale" outliers without losing data integrity.
+- Identified 4 distinct personas (e.g., "Sleeping Giants," "VIP Spenders") and drafted specific retention and activation strategies for each segment.
+  
+![Credit Card Customer Segmentation PCA](https://github.com/AhmedElatwy/Customer-Segmentation-Strategy/blob/16a6b8daa201c4f0cb9d8948562215c60792f1e4/Visuals/Customer%20Segment%20PCA.png)
+
+### [Automated Lithology Prediction using Well Log Data](Projects/Automated-Lithology-Prediction-using-Well-Log-Data)
+**Tools:** Power BI, Python, Statistics, Petrophysics
+- Built a Machine Learning pipeline to automate rock type classification (Sandstone vs. Shale) from raw well log data.
+- Leveraged geophysics knowledge to perform domain-specific cleaning, choosing to drop unreliable PEF logs while preserving the "Triple Combo" signal.
+- Trained a Random Forest Classifier achieving 91.7% accuracy and 95% recall on reservoir sandstones, validated via a blind-test log plot.
+
+### [Logistics Bottleneck Analysis (Supply Chain)](Projects/Logistics-Bottleneck-Analysis)
+**Tools:** Power BI, Python, Statistics, Supply Chain
+- Investigated the root causes of a 60% late delivery rate for an international logistics firm.
+- Discovered a critical "Discount Cliff," revealing that shipments with >10% discounts were systematically deprioritized and delayed.
+- Built an operational Power BI dashboard tracking warehouse performance and provided data-driven recommendations to optimize shipping priority rules.
+
+### [Store Sales Forecasting](Projects/Store-Sales-Forecasting)
+**Tools:** Power BI, Python, Statistics, Forecasting
+- Predicted daily sales 6 weeks in advance for a retail chain to optimize inventory planning.
+- Engineered Time Series features (Seasonality, Holidays) and quantified the business impact of Promotions (Median sales lift of ~$3,000).
+- Identified and resolved a critical Data Leakage issue (future customer counts), delivering a realistic and robust Random Forest Regressor model.
 
 ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
-
-![Employee Retentio Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/a2a93e64d67afb96b215fa92f743a3af7feccc3a/Projects/IBM-HR-Analysis/Visuals/IBM%20HR%20Attrition%20Dashboard%202.png)
-  
+    
 ### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
 **Tools:** Python, Pandas, Matplotlib, Statistical Analysis
 - Analyzed chip category performance across multiple regions
