@@ -62,6 +62,12 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Discovered a critical "Discount Cliff," revealing that shipments with >10% discounts were systematically deprioritized and delayed.
 - Built an operational Power BI dashboard tracking warehouse performance and provided data-driven recommendations to optimize shipping priority rules.
 
+### [E-Commerce Revenue Logistics Analysis (SQL)](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL)
+**Tools:** SQL, Python, Statistics, Supply Chain
+-	Analyzed a 100k+ row e-commerce database to diagnose revenue trends and logistical bottlenecks.
+-	Utilized Advanced SQL (Joins, Date Math) to link 9 relational tables and calculate lead times across different states.
+- Uncovered a 29-day delivery lag in Amazonian states and identified the "Health & Beauty" category as the primary revenue engine ($119k/month).
+
 ### [Store Sales Forecasting](Projects/Store-Sales-Forecasting)
 **Tools:** Power BI, Python, Statistics, Forecasting
 - Predicted daily sales 6 weeks in advance for a retail chain to optimize inventory planning.
