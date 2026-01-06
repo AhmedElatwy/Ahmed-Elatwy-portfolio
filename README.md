@@ -31,7 +31,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
 - Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
 
-![London Bike Sharing Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/d5d0ac82ed5c0726882f0eb2468114879d5b7f25/Projects/London-Bike-Sharing-Analysis/Visuals/London%20Bike%20Dashboard%20.png)
+![London Bike Sharing Dashboard](Projects/London-Bike-Sharing-Analysis/Visuals/London-Bike-Dashboard.png)
 
 ### [Telco Customer Churn Analysis](Projects/Telco-Customer-Churn-Analysis)
 **Tools:** Power BI, Python, Statistics
@@ -40,7 +40,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Provide actionable insights for retention strategies
 - Reduce churn rates through data-driven interventions
 
-![Telco Customer Churn Analysis Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/713966e2bf3b47c56f9af8924761147783bcaf34/Projects/Telco-Customer-Churn-Analysis/Visual/Telco%20Dashboard%203.png)
+![Telco Customer Churn Analysis Dashboard](Projects/Telco-Customer-Churn-Analysis/Visual/Telco-Dashboard.png)
 
 ### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
 **Tools:** Power BI, Python, Statistics, Segmentation
@@ -48,7 +48,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Applied K-Means Clustering and PCA on financial data, utilizing Logarithmic Transformations to handle "Whale" outliers without losing data integrity.
 - Identified 4 distinct personas (e.g., "Sleeping Giants," "VIP Spenders") and drafted specific retention and activation strategies for each segment.
   
-![Credit Card Customer Segmentation PCA](https://github.com/AhmedElatwy/Customer-Segmentation-Strategy/blob/16a6b8daa201c4f0cb9d8948562215c60792f1e4/Visuals/Customer%20Segment%20PCA.png)
+![Credit Card Customer Segmentation PCA](Projects/Customer-Segmentation-Strategy/Visuals/Customer-Segment-PCA.png)
 
 ### [Automated Lithology Prediction using Well Log Data](Projects/Automated-Lithology-Prediction-using-Well-Log-Data)
 **Tools:** Power BI, Python, Statistics, Petrophysics
