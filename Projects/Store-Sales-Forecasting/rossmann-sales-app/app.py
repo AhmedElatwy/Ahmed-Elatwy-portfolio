@@ -49,8 +49,6 @@ def is_store_open_by_date(date):
 # Streamlit App
 st.title("Rossmann Store Sale Forecast")
 
-st.header("Welcome to the Rossmann Store Sale Forecast App")
-
 st.write("This app helps you forecast sales for Rossmann stores based on historical data.")
 
 sales_rolling = df.groupby('Date')['Sales'].sum().rolling(window=7).mean()
@@ -61,34 +59,34 @@ col1, col2, col3 = st.columns(3)
 with col1:
     data_summary_button = st.button("Data Summary")
 with col2:
-    first_5rows_button = st.button("First 5 Rows")
+    first_5rows_button = st.button("Sample 5 Rows")
 with col3:
     sales_overtime_button = st.button("Sales Over Time")
 
 if data_summary_button:
     st.write(df.describe())
 if first_5rows_button:
-    st.write(df.head(5))
+    st.write(df.sample(5))
 if sales_overtime_button:
     st.line_chart(sales_rolling)
 
 # add user inputs for prediction and let user decide the timeframe of prediction
 
-st.header("Sales Prediction")
+st.sidebar.header("Sales Prediction")
 
-st.subheader("Prediction Options")
+st.sidebar.subheader("Prediction Options")
 
 col_a, col_b = st.columns(2)
 
 with col_a:
-    is_open = st.checkbox("Store is Open", value=True)
+    is_open = st.sidebar.checkbox("Store is Open", value=True)
 
 with col_b:
-    has_promo = st.checkbox("Running Promotion", value=False)
+    has_promo = st.sidebar.checkbox("Running Promotion", value=False)
 
-st.subheader("Forecast Range")
+st.sidebar.subheader("Forecast Range")
 
-forecast_days = st.radio(
+forecast_days = st.sidebar.radio(
     "Select forecast horizon:",
     options=[7, 30],
     horizontal=True
@@ -96,12 +94,11 @@ forecast_days = st.radio(
 
     
 # store_id = st.number_input("Enter Store ID:", min_value=1, max_value=1115, value=1)
-store_id = st.selectbox("Select Store ID:", options=[1,2,3,4,5,6,7,8,9,10])
+store_id = st.sidebar.selectbox("Select Store ID:", options=[1,2,3,4,5,6,7,8,9,10])
 
-date_input = st.date_input("Select Date for Prediction:", dt.date(2014, 7, 31))
+date_input = st.sidebar.date_input("Select Date for Prediction:", dt.date(2014, 7, 31))
 
-predict_button = st.button("Predict Sales")
-col_x, col_y = st.columns(2)
+predict_button = st.sidebar.button("Predict Sales")
 
 if predict_button:
     # Convert the date_input to match your DataFrame's date format
@@ -117,8 +114,7 @@ if predict_button:
         ][['Date', 'Sales']]
         
         actual_df = pd.DataFrame(actual_values).sort_values(by='Date')
-        with col_x:
-            st.write(actual_df)
+
 
 
     future_dates = generate_future_dates(date_input, forecast_days)
@@ -150,9 +146,17 @@ if predict_button:
 
     forecast_df = pd.DataFrame(predictions)
 
+    with st.expander("View Detailed Data (Actual vs Predicted)"):
+        col_x, col_y = st.columns(2)
+
+        with col_x:
+            st.write("Actual Sales")
+            st.write(actual_df)
+        with col_y:
+            st.write("Predicted Sales")
+            st.write(forecast_df)
     st.success(f"Forecast for Store {store_id} (next {forecast_days} days)")
-    with col_y:
-        st.write(forecast_df)
+
 
     forecast_df['Type'] = 'Forecast'
 
@@ -185,5 +189,7 @@ if predict_button:
 
 
     st.altair_chart(chart, use_container_width=True)
+
+
 
 
