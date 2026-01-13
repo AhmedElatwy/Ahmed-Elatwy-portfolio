@@ -9,8 +9,8 @@ import altair as alt
 
 
 # Load the pre-trained model and data
-model = joblib.load('D:\\Ahmed\\D.A\\Project\\Finished\\Rossmann Store Sales\\ten_stores_sales_forecasting_model.pkl')
-df = pd.read_csv("D:\\Ahmed\\D.A\\Project\\Finished\\Rossmann Store Sales\\train.csv")
+model = joblib.load('Projects/Store-Sales-Forecasting/rossmann-sales-app/ten_stores_sales_forecasting_model.pkl')
+df = pd.read_csv("Projects/Store-Sales-Forecasting/rossmann-sales-app/Model Data/rossman_1_to_10.csv")
 df['Date'] = pd.to_datetime(df['Date'])  # Add this line
 df['Month'] = df['Date'].dt.month
 df['Year'] = df['Date'].dt.year
@@ -185,4 +185,5 @@ if predict_button:
 
 
     st.altair_chart(chart, use_container_width=True)
+
 
