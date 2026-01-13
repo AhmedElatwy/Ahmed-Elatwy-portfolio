@@ -42,6 +42,17 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ![Telco Customer Churn Analysis Dashboard](Projects/Telco-Customer-Churn-Analysis/Visual/Telco-Dashboard.png)
 
+### [Store Sales Forecasting](Projects/Store-Sales-Forecasting)
+**Tools:** Power BI, Python, Statistics, Forecasting, Streamlit
+
+[Streamlit Live Web Interface for Real-Time Prediction.](https://rossman-store-sales-forecasting.streamlit.app/)
+- Predicted daily sales 6 weeks in advance for a retail chain to optimize inventory planning.
+- Engineered Time Series features (Seasonality, Holidays) and quantified the business impact of Promotions (Median sales lift of ~$3,000).
+- Identified and resolved a critical Data Leakage issue (future customer counts), delivering a realistic and robust Random Forest Regressor model.
+
+![Streamlit Live Web Interface for Real-Time Prediction.](Projects/Store-Sales-Forecasting/Visuals/Streamlit.png)
+
+
 ### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
 **Tools:** Power BI, Python, Statistics, Segmentation
 - Segmented a customer base to replace generic marketing with targeted, behavior-based campaigns.
@@ -67,12 +78,6 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 -	Analyzed a 100k+ row e-commerce database to diagnose revenue trends and logistical bottlenecks.
 -	Utilized Advanced SQL (Joins, Date Math) to link 9 relational tables and calculate lead times across different states.
 - Uncovered a 29-day delivery lag in Amazonian states and identified the "Health & Beauty" category as the primary revenue engine ($119k/month).
-
-### [Store Sales Forecasting](Projects/Store-Sales-Forecasting)
-**Tools:** Power BI, Python, Statistics, Forecasting
-- Predicted daily sales 6 weeks in advance for a retail chain to optimize inventory planning.
-- Engineered Time Series features (Seasonality, Holidays) and quantified the business impact of Promotions (Median sales lift of ~$3,000).
-- Identified and resolved a critical Data Leakage issue (future customer counts), delivering a realistic and robust Random Forest Regressor model.
 
 ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
