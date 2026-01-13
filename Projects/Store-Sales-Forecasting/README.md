@@ -2,7 +2,13 @@
 
 ## Domain: Retail Operations
 
-## Business Problem: A drugstore chain needed accurate 6-week sales forecasts to optimize inventory and prevent stockouts/overstocking across 1,115 stores.
+[Streamlit Live Web Interface for Real-Time Prediction.](https://rossman-store-sales-forecasting.streamlit.app/)
+
+![Streamlit Live Web Interface for Real-Time Prediction.](Visuals/Streamlit-Full.png)
+
+## Business Problem:
+A drugstore chain needed accurate 6-week sales forecasts to optimize inventory and prevent stockouts/overstocking across 1,115 stores.
+
 ## My Approach:
 o	Conducted Time Series EDA to uncover weekly seasonality (Sunday closures) and the financial impact of promotions.
 
