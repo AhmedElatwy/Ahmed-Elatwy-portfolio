@@ -50,7 +50,7 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Engineered Time Series features (Seasonality, Holidays) and quantified the business impact of Promotions (Median sales lift of ~$3,000).
 - Identified and resolved a critical Data Leakage issue (future customer counts), delivering a realistic and robust Random Forest Regressor model.
 
-![Streamlit Live Web Interface for Real-Time Prediction.](Projects/Store-Sales-Forecasting/Visuals/Streamlit.png)
+![Streamlit Live Web Interface for Real-Time Prediction.](Projects/Store-Sales-Forecasting/Visuals/Streamlit-Full.png)
 
 
 ### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
