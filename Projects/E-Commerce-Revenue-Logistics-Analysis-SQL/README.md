@@ -3,21 +3,34 @@
 ## Domain:
 E-Commerce / Operations
 ## Business Problem:
-The CMO of a Brazilian marketplace needed to identify revenue drivers and high-value customers, while the Operations Director required a root-cause analysis of delivery delays in remote regions.
+The CMO of a Brazilian marketplace needed to identify revenue drivers and high-value customers, while the Operations Director required a root-cause analysis of delivery delays in remote regions, The Logistics Director needed to visualize the distribution network to identify long-distance shipping inefficiencies and validate warehouse locations.
+
 ## My Approach:
-o	Built a local relational database using SQLite to query over 100k orders across 9 connected tables.
+-	Built a local relational database using SQLite to query over 100k orders across 9 connected tables.
 
-o	Executed complex Multi-Table Joins to link Products, Orders, and Customers, enabling a granular revenue analysis.
+-	Executed complex Multi-Table Joins to link Products, Orders, and Customers, enabling a granular revenue analysis.
 
-o	Solved the "Session vs. User" identity challenge by aggregating on customer_unique_id to calculate Customer Lifetime Value (LTV).
+- Engineered a SQL + Python Pipeline to join 5 relational tables (Orders, Items, Customers, Sellers, Geolocation), linking 100k+ orders to their physical coordinates.
+
+- Calculated the Haversine Distance (Great Circle) between every Buyer and Seller using Vectorized NumPy functions.
+
+-	Solved the "Session vs. User" identity challenge by aggregating on customer_unique_id to calculate Customer Lifetime Value (LTV).
+
+![Map](Findings/Map.png)
 
 ## Key Results:
-o	Identified Health & Beauty as the top category, revealing an exponential growth trend (from $134 to $119k/month).
+-	Identified Health & Beauty as the top category, revealing an exponential growth trend (from $134 to $119k/month).
 
-o	Pinpointed a critical logistics bottleneck in the Northern Region (Amazon Basin), where average delivery times hit ~29 days (States: RR, AP, AM).
+-	Pinpointed a critical logistics bottleneck in the Northern Region (Amazon Basin), where average delivery times hit ~29 days (States: RR, AP, AM).
 
-o	Generated a verified "VIP List" of top spenders (Top Whale: R$ 13.4k) for the loyalty program.
+-	Generated a verified "VIP List" of top spenders (Top Whale: R$ 13.4k) for the loyalty program.
+
+- Identified data anomalies (potential international shipping errors to Europe) requiring data governance review.
+
+- Visualized the "Last Mile" density, confirming the need for localized distribution hubs in the São Paulo region to reduce shipping costs.
 
 ## Tech Stack:
-SQL (SQLite), Joins, Aggregations, Date Functions.
+SQL (SQLite), Python (Folium, NumPy, Pandas).
 
+
+Built an interactive Folium Heatmap to visualize demand density and plotted "Long-Haul" delivery routes to identify extreme outliers.
