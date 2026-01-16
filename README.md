@@ -52,6 +52,14 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ![Streamlit Live Web Interface for Real-Time Prediction.](Projects/Store-Sales-Forecasting/Visuals/Streamlit-Full.png)
 
+### [E-Commerce Revenue Logistics Analysis (SQL)](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL)
+**Tools:** SQL, Python, Statistics, Supply Chain
+
+-	Analyzed a 100k+ row e-commerce database to diagnose revenue trends and logistical bottlenecks.
+-	Utilized Advanced SQL (Joins, Date Math) to link 9 relational tables and calculate lead times across different states.
+- Uncovered a 29-day delivery lag in Amazonian states and identified the "Health & Beauty" category as the primary revenue engine ($119k/month).
+
+![Map](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL/Findings/Map.png)
 
 ### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
 **Tools:** Power BI, Python, Statistics, Segmentation
@@ -72,12 +80,6 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Investigated the root causes of a 60% late delivery rate for an international logistics firm.
 - Discovered a critical "Discount Cliff," revealing that shipments with >10% discounts were systematically deprioritized and delayed.
 - Built an operational Power BI dashboard tracking warehouse performance and provided data-driven recommendations to optimize shipping priority rules.
-
-### [E-Commerce Revenue Logistics Analysis (SQL)](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL)
-**Tools:** SQL, Python, Statistics, Supply Chain
--	Analyzed a 100k+ row e-commerce database to diagnose revenue trends and logistical bottlenecks.
--	Utilized Advanced SQL (Joins, Date Math) to link 9 relational tables and calculate lead times across different states.
-- Uncovered a 29-day delivery lag in Amazonian states and identified the "Health & Beauty" category as the primary revenue engine ($119k/month).
 
 ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
