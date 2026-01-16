@@ -16,8 +16,6 @@ The CMO of a Brazilian marketplace needed to identify revenue drivers and high-v
 
 -	Solved the "Session vs. User" identity challenge by aggregating on customer_unique_id to calculate Customer Lifetime Value (LTV).
 
-![Map](Findings/Map.png)
-
 ## Key Results:
 -	Identified Health & Beauty as the top category, revealing an exponential growth trend (from $134 to $119k/month).
 
@@ -28,6 +26,15 @@ The CMO of a Brazilian marketplace needed to identify revenue drivers and high-v
 - Identified data anomalies (potential international shipping errors to Europe) requiring data governance review.
 
 - Visualized the "Last Mile" density, confirming the need for localized distribution hubs in the São Paulo region to reduce shipping costs.
+
+### Customer Retention Analysis (Advanced SQL):
+
+- Utilized Common Table Expressions (CTEs) and Window Functions (LAG) to calculate the time-lapse between customer orders.
+
+- Identified repeat purchasing patterns to inform "Win-Back" marketing strategies.
+
+
+![Map](Findings/Map.png)
 
 ## Tech Stack:
 SQL (SQLite), Python (Folium, NumPy, Pandas).
