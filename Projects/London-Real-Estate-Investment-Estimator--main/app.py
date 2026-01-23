@@ -6,23 +6,26 @@ from folium.plugins import MarkerCluster
 import folium 
 from streamlit_folium import st_folium
 import os
+
 # Load the model 
+
 @st.cache_resource
 def load_model():
-    # A. Initialize an empty XGBoost Regressor
-    # (Must match the type you trained: Regressor for price, Classifier for categories)
     model = xgb.XGBRegressor()
-    
-    # B. Load the weights from the JSON file
-    base_dir = os.path.dirname("Projects/London-Real-Estate-Investment-Estimator--main/")
-    model_path = os.path.join(base_dir, "xgb_model.json")
+    model_path = os.path.join(BASE_DIR, "xgb_model.json")
     model.load_model(model_path)
-    
     return model
 
-model = load_model()
 
-model_columns = joblib.load("model_columns.joblib") # The list of features
+@st.cache_resource
+def load_model_columns():
+    columns_path = os.path.join(BASE_DIR, "model_columns.joblib")
+    return joblib.load(columns_path)
+
+
+model = load_model()
+model_columns = load_model_columns()
+
 
 df_map = pd.read_csv("app_data.csv")
 
@@ -124,6 +127,7 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
