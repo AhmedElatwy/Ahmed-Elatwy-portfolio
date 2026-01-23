@@ -5,7 +5,7 @@ import xgboost as xgb
 from folium.plugins import MarkerCluster
 import folium 
 from streamlit_folium import st_folium
-
+import os
 # Load the model 
 @st.cache_resource
 def load_model():
@@ -124,4 +124,5 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
