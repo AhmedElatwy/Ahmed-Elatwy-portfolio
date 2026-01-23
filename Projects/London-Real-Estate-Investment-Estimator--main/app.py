@@ -14,7 +14,7 @@ data_path = os.path.join(BASE_DIR, "app_data.csv")
 
 @st.cache_resource
 def load_model():
-    model = xgb.XGBRegressor()
+    model = xgb.Booster()
     model_path = os.path.join(BASE_DIR, "xgb_model.json")
     model.load_model(model_path)
     return model
@@ -130,6 +130,7 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
