@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+xgboost
+folium
+streamlit_folium
