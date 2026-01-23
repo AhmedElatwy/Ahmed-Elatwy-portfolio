@@ -6,5 +6,5 @@ folium
 scikit-learn
 os
 streamlit_folium
-xgboost
+
 
