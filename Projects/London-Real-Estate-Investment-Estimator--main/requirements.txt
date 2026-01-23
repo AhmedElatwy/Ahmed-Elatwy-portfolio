@@ -3,4 +3,5 @@ pandas
 joblib
 xgboost
 folium
+scikit-learn
 streamlit_folium
