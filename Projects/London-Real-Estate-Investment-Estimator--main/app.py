@@ -29,7 +29,8 @@ model = load_model()
 model_columns = load_model_columns()
 
 
-df_map = pd.read_csv("app_data.csv")
+map_data_path = os.path.join(BASE_DIR, "app_data.csv")
+df_map = pd.read_csv(map_data_path)
 # --- The Streamlit App ---
 
 
@@ -128,6 +129,7 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
