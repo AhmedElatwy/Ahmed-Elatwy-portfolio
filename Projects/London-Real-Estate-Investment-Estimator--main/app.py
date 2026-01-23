@@ -121,14 +121,17 @@ if st.sidebar.button("Predict Price"):
         if col in final_df.columns:
             final_df.loc[0, col] = input_df.iloc[0][col]
             
-    # Fill missing columns (like amenities we didn't ask about) with 0
+    # Fill missing columns with 0
     final_df.fillna(0, inplace=True)
     
-    # Predict
-    prediction = model.predict(final_df)[0]
+    # --- CONVERT TO DMATRIX (Crucial for JSON models) ---
+    data_dmatrix = xgb.DMatrix(final_df)
     
-
+    # Predict
+    prediction = model.predict(data_dmatrix)[0]
+    
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
