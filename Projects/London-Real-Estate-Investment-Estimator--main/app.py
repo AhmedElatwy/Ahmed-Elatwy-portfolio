@@ -8,6 +8,7 @@ from streamlit_folium import st_folium
 import os
 
 # Load the model 
+BASE_DIR = os.path.dirname("Ahmed-Elatwy-portfolio/Projects/London-Real-Estate-Investment-Estimator--main/")
 
 @st.cache_resource
 def load_model():
@@ -127,6 +128,7 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
