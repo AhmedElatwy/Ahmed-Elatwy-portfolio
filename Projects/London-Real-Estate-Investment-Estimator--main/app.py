@@ -10,7 +10,6 @@ import os
 # Load the model 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-data_path = os.path.join(BASE_DIR, "app_data.csv")
 
 @st.cache_resource
 def load_model():
@@ -30,8 +29,7 @@ model = load_model()
 model_columns = load_model_columns()
 
 
-df_map = pd.read_csv("data_path")
-
+df_map = pd.read_csv("app_data.csv")
 # --- The Streamlit App ---
 
 
@@ -130,6 +128,7 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
 
