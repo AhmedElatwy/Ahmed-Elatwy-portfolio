@@ -17,6 +17,18 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 
 ## 📊 Projects Portfolio
 
+### [London Real Estate Investment Estimator](Projects/London-Real-Estate-Investment-Estimator--main)
+**Tools:** SQL, Pandas, Folium, Numpy, Streamlit, Statistics, NLP, Geospatial, ML
+
+•	NLP: VADER Sentiment Analysis on 50,000+ guest reviews.
+
+•	Geospatial: Haversine Distance calculation & Folium Cluster Mapping.
+
+•	ML: XGBoost Regressor (R²: 0.82, MAE: $28).
+
+
+![Map](Projects/London-Real-Estate-Investment-Estimator--main/Visuals/London_Heatmap.png)
+
 ### [E-Commerce Business Analysis](Projects/E-Commerce-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Developed comprehensive sales dashboards
