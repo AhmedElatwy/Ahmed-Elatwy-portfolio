@@ -20,6 +20,8 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 ### [London Real Estate Investment Estimator](Projects/London-Real-Estate-Investment-Estimator--main)
 **Tools:** SQL, Pandas, Folium, Numpy, Streamlit, Statistics, NLP, Geospatial, ML
 
+[Streamlit Deployment](https://london-real-estate-investment-estimator.streamlit.app/)
+
 •	NLP: VADER Sentiment Analysis on 50,000+ guest reviews.
 
 •	Geospatial: Haversine Distance calculation & Folium Cluster Mapping.
