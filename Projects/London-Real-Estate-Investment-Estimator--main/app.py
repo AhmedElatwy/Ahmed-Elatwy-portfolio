@@ -14,7 +14,7 @@ def load_model():
     model = xgb.XGBRegressor()
     
     # B. Load the weights from the JSON file
-    base_dir = os.path.dirname(__file__)
+    base_dir = os.path.dirname("Projects/London-Real-Estate-Investment-Estimator--main/")
     model_path = os.path.join(base_dir, "xgb_model.json")
     model.load_model(model_path)
     
@@ -124,5 +124,6 @@ if st.sidebar.button("Predict Price"):
     
 
     st.success(f"Estimated Price: ${prediction:.2f}", icon="💰")
+
 
 
