@@ -35,6 +35,8 @@ I built an End-to-End Machine Learning Engine that:
 ![London Heatmap](Visuals/London_Heatmap.png)
 
 ## **3. Streamlit Deployment**
+[Streamlit Deployment](https://london-real-estate-investment-estimator.streamlit.app/)
+
 
 ![Streamlit Deployment](Visuals/London_Investment_Evaluator.png)
 
