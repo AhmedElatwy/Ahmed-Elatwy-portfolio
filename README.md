@@ -5,9 +5,10 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Pro-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-orange)
 
-## 👨‍💻 About Me
+------------------------------------------------------------------------------------------------------------
 
-I'm a passionate Data Analyst with a Bachelor of Science degree, certified through IBM Professional Data Analyst and Google Advanced Data Analysis programs. I specialize in transforming complex datasets into actionable insights using Python, Power BI, and Excel.
+## Data Analyst | Turning Data into Revenue-Driving Insights  
+
 
 **Technical Skills:**
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
@@ -15,65 +16,124 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - **Data Analysis:** Statistical Analysis, Data Cleaning, EDA, Predictive Modeling
 - **Tools:** Jupyter Notebook, Git, SQL, Excel Advanced Formulas
 
+------------------------------------------------------------------------------------------------------------
+
 ## 📊 Projects Portfolio
 
-### [London Real Estate Investment Estimator](Projects/London-Real-Estate-Investment-Estimator--main)
-**Tools:** SQL, Pandas, Folium, Numpy, Streamlit, Statistics, NLP, Geospatial, ML
+### 📈 Case Study: London Real Estate Investment Estimator
 
-[Streamlit Deployment](https://london-real-estate-investment-estimator.streamlit.app/)
+- **Client Type**: Real Estate Investment Firms & Property Arbitrage Investors in London
 
-•	NLP: VADER Sentiment Analysis on 50,000+ guest reviews.
+- **Problem**: Price ≠ Value: Traditional analysis misses location nuances and guest sentiment, causing investors to overpay for 'overpriced junk' or miss undervalued gems
 
-•	Geospatial: Haversine Distance calculation & Folium Cluster Mapping.
+- **My Approach**: Built end-to-end ML engine analyzing 96,000 listings with 150+ features; applied NLP (VADER) on 50,000+ reviews for sentiment scoring, geospatial engineering (Haversine distance), and XGBoost regression to predict fair market value
 
-•	ML: XGBoost Regressor (R²: 0.82, MAE: $28).
+- **Result**: Achieved R² of 0.82 (MAE $28); discovered 'Bedrooms & Privacy' drive price 3x more than sentiment; properties within 5km of center command 40% premium; successfully identified undervalued arbitrage opportunities
 
+- **Tools**: Python, Pandas, NumPy, XGBoost, Scikit-Learn, NLTK (VADER), Folium, Haversine, Streamlit
+
+[Live App](https://london-real-estate-investment-estimator.streamlit.app/) | [GitHub](Projects/London-Real-Estate-Investment-Estimator--main)
 
 ![Map](Projects/London-Real-Estate-Investment-Estimator--main/Visuals/London_Heatmap.png)
 
-### [E-Commerce Business Analysis](Projects/E-Commerce-Analysis)
-**Tools:** Power BI, Python, Statistics
-- Developed comprehensive sales dashboards
-- Analyzed customer behavior and purchase patterns
-- Identified growth opportunities and seasonal trends
+------------------------------------------------------------------------------------------------------------
+
+
+### 📈 Case Study: E-Commerce Data Analysis & Customer Segmentation
+
+- **Client Type:** Transnational E-Commerce Retailer (B2B/B2C) with 4,200+ customers across multiple countries
+
+- **Problem:** No unified view of customer value or behavior: marketing spend was inefficient, churn was unaddressed, and high-value segments were being overlooked  
+
+- **My Approach:** Analyzed 540K+ transactions using Python (Pandas, RFM + Cohort analysis); engineered a two-tier dataset strategy to separate financial reporting from behavioral analysis; built interactive Power BI dashboard for executive decision-making
+
+- **Result:** Identified 'Champions' segment (643 customers) driving ~80% of revenue; discovered 80% of daily revenue concentrates on Thursdays 10AM–3PM; revealed 3-month retention drop-off; delivered 4 actionable strategies including VIP program and targeted win-back campaigns
+
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Git/GitHub  
+
+**[Kaggle Notebook](https://www.kaggle.com/code/ahmedealtwy/e-commerce-analysis) | [GitHub](Projects/E-Commerce-Analysis) | [Executive Summary PDF](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/f05ce116202147f0e8b7037291c201c1ea2b6f4c/Excutive%20Summary.pdf)**
+
 
 ![E-Commerce Business Analysis Dashboard](Projects/E-Commerce-Analysis/Visual/Summary-Dashboard-2.png)
 
-### [London Bike Sharing Analysis](Projects/London-Bike-Sharing-Analysis)
-**Tools:** Power BI, Python, Statistics
-- Built a full-stack data solution combining a Python machine learning model for future predictions and a Power BI dashboard for historical analysis.
-- Engineered a Random Forest regression model (Scikit-learn) to forecast bike demand based on weather and time data, achieving high accuracy.
-- Designed a dynamic Power BI dashboard to uncover usage patterns (seasonality, peak hours), utilizing Power Query for advanced ETL and data transformation.
+------------------------------------------------------------------------------------------------------------
+
+
+### 📈 Case Study: London Bike-Sharing Demand Forecasting
+
+- **Client Type:** "Urban Mobility Operator Managing London's Public Bike-Sharing Fleet"  
+
+- **Problem:** "Unpredictable demand spikes and weather-driven fluctuations caused inefficient fleet redistribution, leading to empty stations during rush hour and idle bikes during off-peak times"  
+
+- **My Approach:** "Analyzed 2+ years of historical ride data (2015-2017) combined with weather APIs; engineered temporal features (hourly/weekly patterns) and trained a Random Forest Regressor to forecast demand at station-level granularity"  
+
+- **Result:** "Achieved R² of 0.95 in demand prediction; identified commuter-driven peaks at 8AM/5PM, temperature as the #1 demand driver, and 39% rain-induced drop with 61% user retention; enabled data-backed staffing and maintenance scheduling"  
+
+- **Tools:** Python, Pandas, Scikit-Learn (Random Forest), Matplotlib, Seaborn, Weather APIs  
+
+**[GitHub Repository](Projects/London-Bike-Sharing-Analysis)**
+
 
 ![London Bike Sharing Dashboard](Projects/London-Bike-Sharing-Analysis/Visuals/London-Bike-Dashboard.png)
 
+------------------------------------------------------------------------------------------------------------
+
+
 ### [Telco Customer Churn Analysis](Projects/Telco-Customer-Churn-Analysis)
-**Tools:** Power BI, Python, Statistics
-- Identify key drivers of customer churn
-- Predict customers at high risk of leaving
-- Provide actionable insights for retention strategies
-- Reduce churn rates through data-driven interventions
+### 📈 Case Study: Telco Customer Churn Analysis
+
+**Client Type:** Mid-size Telecommunications Provider Facing High Customer Attrition
+
+**Problem:** Customer churn costing millions annually, with no clear visibility into *who* is leaving, *why*, or *when* to intervene
+
+**My Approach:** Analyzed telecom customer dataset using Python (Pandas, Scikit-Learn); performed exploratory analysis to identify churn drivers, built predictive segmentation, and designed an interactive Power BI-style dashboard for retention teams
+
+**Result:** Discovered month-to-month customers churn at 42.7% vs 2.9% for 2-year contracts; 55.5% of churn happens in Year 1; security services reduce churn risk by 65%; electronic check users are 3x more likely to leave → delivered 4 targeted retention strategies
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Power BI (Dashboard)  
+
+**[Kaggle Notebook](https://www.kaggle.com/code/ahmedealtwy/analyze-customer-churn-for-a-telecom-company) | [GitHub](Projects/Telco-Customer-Churn-Analysis)**
 
 ![Telco Customer Churn Analysis Dashboard](Projects/Telco-Customer-Churn-Analysis/Visual/Telco-Dashboard.png)
 
-### [Store Sales Forecasting](Projects/Store-Sales-Forecasting)
-**Tools:** Power BI, Python, Statistics, Forecasting, Streamlit
+------------------------------------------------------------------------------------------------------------
 
-[Streamlit Live Web Interface for Real-Time Prediction.](https://rossman-store-sales-forecasting.streamlit.app/)
-- Predicted daily sales 6 weeks in advance for a retail chain to optimize inventory planning.
-- Engineered Time Series features (Seasonality, Holidays) and quantified the business impact of Promotions (Median sales lift of ~$3,000).
-- Identified and resolved a critical Data Leakage issue (future customer counts), delivering a realistic and robust Random Forest Regressor model.
+### 📈 Case Study: Store Sales Forecasting
+
+**Client Type:** Drugstore Retail Chain Operating 1,115 Stores
+
+**Problem:** Inaccurate 6-week sales forecasts led to costly stockouts and overstocking, disrupting inventory operations across 1,115 stores
+
+**My Approach:** Conducted Time Series EDA to uncover weekly seasonality (Sunday closures) and promotion impact; engineered features for seasonality and business events; identified and resolved critical data leakage by removing future 'Customers' variable; trained Random Forest Regressor for production-ready forecasting
+
+**Result:** Quantified promotions drive ~$3,000/day median sales lift; achieved R² of 0.85 (MAE $600-800) in production-realistic conditions; model accurately predicted sales spikes and Sunday closure drops for reliable inventory planning
+
+**Tools:** Python, Scikit-Learn, Random Forest, Pandas, Time Series Analysis, Feature Engineering, Streamlit  
+
+**[Live Streamlit App](https://rossman-store-sales-forecasting.streamlit.app/) | [GitHub](Projects/Store-Sales-Forecasting)**
 
 ![Streamlit Live Web Interface for Real-Time Prediction.](Projects/Store-Sales-Forecasting/Visuals/Streamlit-Full.png)
 
-### [E-Commerce Revenue Logistics Analysis (SQL)](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL)
-**Tools:** SQL, Python, Statistics, Supply Chain
+------------------------------------------------------------------------------------------------------------
 
--	Analyzed a 100k+ row e-commerce database to diagnose revenue trends and logistical bottlenecks.
--	Utilized Advanced SQL (Joins, Date Math) to link 9 relational tables and calculate lead times across different states.
-- Uncovered a 29-day delivery lag in Amazonian states and identified the "Health & Beauty" category as the primary revenue engine ($119k/month).
+
+### 📈 Case Study: E-Commerce Revenue & Logistics Analysis (SQL)
+
+**Client Type:** Brazilian Multi-Category E-Commerce Marketplace with 100K+ Orders
+
+**Problem:** CMO lacked visibility into revenue drivers and high-value customers; Operations team couldn't pinpoint root causes of 29-day delivery delays in remote Amazon regions; Logistics needed network visualization to validate warehouse placement
+
+**My Approach:** Built SQLite relational database querying 100K+ orders across 9 tables; engineered SQL + Python pipeline joining 5 relational tables to link orders to geocoordinates; calculated Haversine Distance via Vectorized NumPy; solved 'Session vs. User' identity using customer_unique_id for LTV; applied CTEs + Window Functions (LAG) for retention analysis  
+
+**Result:** Identified Health & Beauty as top category with exponential growth ($134→$119K/month); pinpointed Northern Region bottleneck (29-day avg delivery in RR/AP/AM); generated VIP list (Top Whale: R$13.4K) for loyalty program; visualized 'Last Mile' density confirming need for São Paulo distribution hubs; flagged international shipping anomalies for data governance review  
+
+**Tools:** SQL (SQLite), Python (Pandas, NumPy, Folium), Geospatial Analysis (Haversine), Window Functions, CTEs  
+
+**[GitHub Repository](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL)**
 
 ![Map](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL/Findings/Map.png)
+
+------------------------------------------------------------------------------------------------------------
 
 ### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
 **Tools:** Power BI, Python, Statistics, Segmentation
@@ -83,11 +143,15 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
   
 ![Credit Card Customer Segmentation PCA](Projects/Customer-Segmentation-Strategy/Visuals/Customer-Segment-PCA.png)
 
+------------------------------------------------------------------------------------------------------------
+
 ### [Automated Lithology Prediction using Well Log Data](Projects/Automated-Lithology-Prediction-using-Well-Log-Data)
 **Tools:** Power BI, Python, Statistics, Petrophysics
 - Built a Machine Learning pipeline to automate rock type classification (Sandstone vs. Shale) from raw well log data.
 - Leveraged geophysics knowledge to perform domain-specific cleaning, choosing to drop unreliable PEF logs while preserving the "Triple Combo" signal.
 - Trained a Random Forest Classifier achieving 91.7% accuracy and 95% recall on reservoir sandstones, validated via a blind-test log plot.
+
+------------------------------------------------------------------------------------------------------------
 
 ### [Logistics Bottleneck Analysis (Supply Chain)](Projects/Logistics-Bottleneck-Analysis)
 **Tools:** Power BI, Python, Statistics, Supply Chain
@@ -95,11 +159,15 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Discovered a critical "Discount Cliff," revealing that shipments with >10% discounts were systematically deprioritized and delayed.
 - Built an operational Power BI dashboard tracking warehouse performance and provided data-driven recommendations to optimize shipping priority rules.
 
+------------------------------------------------------------------------------------------------------------
+
 ### [IBM HR Analysis](Projects/IBM-HR-Analysis)
 **Tools:** Power BI, Python, Statistics
 - Disproved the common belief that "lack of promotions" causes attrition.
 - Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
 - Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
+
+------------------------------------------------------------------------------------------------------------
     
 ### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
 **Tools:** Python, Pandas, Matplotlib, Statistical Analysis
@@ -107,11 +175,16 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Identified key drivers of sales and customer preferences
 - Provided strategic recommendations for product placement and promotions
 
+------------------------------------------------------------------------------------------------------------
+
 ### [Social Media Emotions Analysis](Projects/Social-Media-Emotions)
 **Tools:** Python, Text Analysis, Machine Learning
 - Performed sentiment analysis on social media posts
 - Classified emotions using machine learning algorithms
 - Visualized emotional trends and patterns
+
+------------------------------------------------------------------------------------------------------------
+
 
 ### [British Airways Reviews Analysis](Projects/British-Airways-Reviews-Analysis)
 **Tools:** Python, Web Scraping, Sentiment Analysis
@@ -119,11 +192,16 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Identified key satisfaction drivers and pain points
 - Provided insights for service improvement
 
+------------------------------------------------------------------------------------------------------------
+
+
 ### [Stock Market Analysis (2020-2024)](Projects/Stock-Market-Analysis-2020-2024)
 **Tools:** Python, Financial Analysis, Time Series
 - Analyzed stock performance across multiple sectors
 - Identified market trends and volatility patterns
 - Developed risk assessment models
+
+------------------------------------------------------------------------------------------------------------
 
 ### [Global Traffic Index Analysis](Projects/Traffic-Index)
 **Tools:** Python, Data Visualization, Comparative Analysis
@@ -131,11 +209,16 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Identified congestion factors and peak hours
 - Provided urban planning insights
 
+------------------------------------------------------------------------------------------------------------
+
 ### [Retail Sales Analysis](Projects/retail-analysis)
 **Tools:** Excel, Power BI, Business Intelligence
 - Comprehensive sales performance analysis
 - Inventory optimization recommendations
 - Customer segmentation and targeting strategies
+
+------------------------------------------------------------------------------------------------------------
+
 
 ### [International Retail Sales Analysis](Projects/International_retail_sales_analysis)
 **Tools:** Power BI, Comparative Analysis, Market Research
@@ -143,11 +226,17 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Market entry strategy recommendations
 - Cultural and regional buying pattern analysis
 
+------------------------------------------------------------------------------------------------------------
+
+
 ### [Supermarket Performance Analysis](Projects/SuperMarket_Analysis)
 **Tools:** Excel, Data Modeling, Business Analytics
 - Store performance benchmarking
 - Product category optimization
 - Customer loyalty program analysis
+
+------------------------------------------------------------------------------------------------------------
+
 
 ### [Real Estate House Sales Analysis](Projects/HouseSales)
 **Tools:** Python, Real Estate Analytics, Geographic Analysis
@@ -155,11 +244,17 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Location-based pricing strategies
 - Market demand forecasting
 
+------------------------------------------------------------------------------------------------------------
+
+
 ### [IBM Data Analytics Capstone](Projects/ibm-capstone)
 **Tools:** Python, End-to-End Data Analysis, Machine Learning
 - Comprehensive data analysis project covering entire pipeline
 - Predictive modeling and business insights
 - Final capstone project for IBM certification
+
+------------------------------------------------------------------------------------------------------------
+
 
 ## 🛠️ Technical Skills
 
@@ -171,10 +266,16 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 | **Tools** | Jupyter Notebook, Git, GitHub |
 | **Methodologies** | Data Cleaning, EDA, Statistical Analysis, Machine Learning |
 
+------------------------------------------------------------------------------------------------------------
+
+
 ## 📫 Connect With Me
 
 - **Email:** ahmed.abbas.elatwy@gmail.com
 - **GitHub:** [https://github.com/AhmedElatwy](https://github.com/AhmedElatwy)
+
+------------------------------------------------------------------------------------------------------------
+
 
 ## 📄 Certifications
 
@@ -182,6 +283,9 @@ I'm a passionate Data Analyst with a Bachelor of Science degree, certified throu
 - Google Advanced Data Analysis
 - Bachelor of Science
 
----
+
+------------------------------------------------------------------------------------------------------------
+
+
 
 *This portfolio is continuously updated with new projects and improvements.*
