@@ -9,6 +9,19 @@
 
 ## Data Analyst | Turning Data into Revenue-Driving Insights  
 
+**I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit—using data you already have.**
+
+🚀 Let's Fix Your Data  
+→ [Book a free 15-min discovery call](https://calendly.com/ahmed-abbas-elatwy/15min)
+
+→ email "AUDIT" to ahmed.abbas.elatwy@gmail.com for a free dataset review  
+
+*Response time: <24 hours. No obligation. 100% confidential.*
+
+------------------------------------------------------------------------------------------------------------
+## 👋 Why Work With Me?
+
+I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned to translate complex industrial data into business decisions. I understand the Egyptian market, speak your language, and deliver insights you can actually use.
 
 **Technical Skills:**
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
@@ -17,6 +30,30 @@
 - **Tools:** Jupyter Notebook, Git, SQL, Excel Advanced Formulas
 
 ------------------------------------------------------------------------------------------------------------
+## 📦 How I Can Help You
+
+| Service | What You Get | Investment |
+|---------|-------------|------------|
+| **Data Health Check** | 1-page audit + 3 actionable insights | 150 EGP (~$5) |
+| **Mini Dashboard** | Power BI dashboard, 3 KPIs, weekly updates | 600 EGP (~$10) |
+| **Custom Analysis** | Churn, pricing, logistics—scoped to your needs | Quote (starting 1,200 EGP) |
+
+*Payment via Vodafone Cash, bank transfer, or PayPal. Introductory pricing for first 5 clients.*
+
+👉 [Book a free 15-min call to pick the right starting point](https://calendly.com/ahmed-abbas-elatwy/15min)
+
+------------------------------------------------------------------------------------------------------------
+
+## 🔄 How It Works
+
+1. **Book a free 15-min call** → We clarify your goal & data situation  
+2. **Send your dataset** (Excel/CSV) → I analyze & build your deliverable  
+3. **Get actionable insights** → You implement, I support  
+
+*Average turnaround: 48 hours for Health Check, 5 days for Mini Dashboard*
+
+------------------------------------------------------------------------------------------------------------
+
 
 ## 📊 Projects Portfolio
 
@@ -135,125 +172,6 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-### [Credit Card Customer Segmentation](Projects/Customer-Segmentation-Strategy)
-**Tools:** Power BI, Python, Statistics, Segmentation
-- Segmented a customer base to replace generic marketing with targeted, behavior-based campaigns.
-- Applied K-Means Clustering and PCA on financial data, utilizing Logarithmic Transformations to handle "Whale" outliers without losing data integrity.
-- Identified 4 distinct personas (e.g., "Sleeping Giants," "VIP Spenders") and drafted specific retention and activation strategies for each segment.
-  
-![Credit Card Customer Segmentation PCA](Projects/Customer-Segmentation-Strategy/Visuals/Customer-Segment-PCA.png)
-
-------------------------------------------------------------------------------------------------------------
-
-### [Automated Lithology Prediction using Well Log Data](Projects/Automated-Lithology-Prediction-using-Well-Log-Data)
-**Tools:** Power BI, Python, Statistics, Petrophysics
-- Built a Machine Learning pipeline to automate rock type classification (Sandstone vs. Shale) from raw well log data.
-- Leveraged geophysics knowledge to perform domain-specific cleaning, choosing to drop unreliable PEF logs while preserving the "Triple Combo" signal.
-- Trained a Random Forest Classifier achieving 91.7% accuracy and 95% recall on reservoir sandstones, validated via a blind-test log plot.
-
-------------------------------------------------------------------------------------------------------------
-
-### [Logistics Bottleneck Analysis (Supply Chain)](Projects/Logistics-Bottleneck-Analysis)
-**Tools:** Power BI, Python, Statistics, Supply Chain
-- Investigated the root causes of a 60% late delivery rate for an international logistics firm.
-- Discovered a critical "Discount Cliff," revealing that shipments with >10% discounts were systematically deprioritized and delayed.
-- Built an operational Power BI dashboard tracking warehouse performance and provided data-driven recommendations to optimize shipping priority rules.
-
-------------------------------------------------------------------------------------------------------------
-
-### [IBM HR Analysis](Projects/IBM-HR-Analysis)
-**Tools:** Power BI, Python, Statistics
-- Disproved the common belief that "lack of promotions" causes attrition.
-- Identified a "Toxic Zone" where Sales Representatives working Overtime with low pay had a 40% attrition rate.
-- Built a predictive model (Accuracy: 88.8%) that flags high-risk employees before they quit.
-
-------------------------------------------------------------------------------------------------------------
-    
-### [Retail Strategy Analytics - Chip Category Performance](Projects/Retail-Strategy-Analytics-Chip-Category-Performance-Analysis)
-**Tools:** Python, Pandas, Matplotlib, Statistical Analysis
-- Analyzed chip category performance across multiple regions
-- Identified key drivers of sales and customer preferences
-- Provided strategic recommendations for product placement and promotions
-
-------------------------------------------------------------------------------------------------------------
-
-### [Social Media Emotions Analysis](Projects/Social-Media-Emotions)
-**Tools:** Python, Text Analysis, Machine Learning
-- Performed sentiment analysis on social media posts
-- Classified emotions using machine learning algorithms
-- Visualized emotional trends and patterns
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [British Airways Reviews Analysis](Projects/British-Airways-Reviews-Analysis)
-**Tools:** Python, Web Scraping, Sentiment Analysis
-- Collected and analyzed customer reviews
-- Identified key satisfaction drivers and pain points
-- Provided insights for service improvement
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [Stock Market Analysis (2020-2024)](Projects/Stock-Market-Analysis-2020-2024)
-**Tools:** Python, Financial Analysis, Time Series
-- Analyzed stock performance across multiple sectors
-- Identified market trends and volatility patterns
-- Developed risk assessment models
-
-------------------------------------------------------------------------------------------------------------
-
-### [Global Traffic Index Analysis](Projects/Traffic-Index)
-**Tools:** Python, Data Visualization, Comparative Analysis
-- Analyzed traffic patterns across major cities
-- Identified congestion factors and peak hours
-- Provided urban planning insights
-
-------------------------------------------------------------------------------------------------------------
-
-### [Retail Sales Analysis](Projects/retail-analysis)
-**Tools:** Excel, Power BI, Business Intelligence
-- Comprehensive sales performance analysis
-- Inventory optimization recommendations
-- Customer segmentation and targeting strategies
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [International Retail Sales Analysis](Projects/International_retail_sales_analysis)
-**Tools:** Power BI, Comparative Analysis, Market Research
-- Cross-country sales performance comparison
-- Market entry strategy recommendations
-- Cultural and regional buying pattern analysis
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [Supermarket Performance Analysis](Projects/SuperMarket_Analysis)
-**Tools:** Excel, Data Modeling, Business Analytics
-- Store performance benchmarking
-- Product category optimization
-- Customer loyalty program analysis
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [Real Estate House Sales Analysis](Projects/HouseSales)
-**Tools:** Python, Real Estate Analytics, Geographic Analysis
-- Property value trend analysis
-- Location-based pricing strategies
-- Market demand forecasting
-
-------------------------------------------------------------------------------------------------------------
-
-
-### [IBM Data Analytics Capstone](Projects/ibm-capstone)
-**Tools:** Python, End-to-End Data Analysis, Machine Learning
-- Comprehensive data analysis project covering entire pipeline
-- Predictive modeling and business insights
-- Final capstone project for IBM certification
-
-------------------------------------------------------------------------------------------------------------
 
 
 ## 🛠️ Technical Skills
@@ -268,11 +186,19 @@
 
 ------------------------------------------------------------------------------------------------------------
 
+## 💬 What People Say
+
+------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
-- **Email:** ahmed.abbas.elatwy@gmail.com
-- **GitHub:** [https://github.com/AhmedElatwy](https://github.com/AhmedElatwy)
+🚀 Let's Fix Your Data  
+→ [Book a free 15-min discovery call] (Calendly link)  
+→ email "AUDIT" to ahmed.abbas.elatwy@gmail.com for a free dataset review  
+
+Available for calls Sat-Thu, 5 PM → 1 AM EET (Cairo time).
+
+*Response time: <24 hours. No obligation. 100% confidential.*
 
 ------------------------------------------------------------------------------------------------------------
 
