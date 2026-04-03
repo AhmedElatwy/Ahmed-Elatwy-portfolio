@@ -171,8 +171,22 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 ![Map](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL/Findings/Map.png)
 
 ------------------------------------------------------------------------------------------------------------
+### 📈 Case Study #7: Olist E-Commerce Retention Analysis
+Client Type: "Brazilian Multi-Category E-Commerce Marketplace (Olist) with 100K+ Orders"
 
+**Problem:** 96.9% of customers never make a second order; no visibility into why customers don't return or where the biggest revenue opportunities lie for improving retention
 
+**My Approach:** Analyzed 100K+ completed orders using Python (Pandas, SciPy); filtered for delivered orders, excluded incomplete cohorts (<60 days), applied statistical validation (linear regression) to identify retention trends, and modeled revenue impact of improving repeat purchase rates
+
+**Result:** Quantified 3.12% repeat purchase rate; identified +312K BRL (~$62K) monthly revenue opportunity if rate improves to 5%; discovered Home Essentials retain 2.5x better than Toys/Gifts (26% vs 10%); detected statistically significant -0.28%/month retention decline (p<0.001); delivered 3 prioritized, ROI-backed retention strategies
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy (linregress), Statistical Modeling
+
+[GitHub Repository](Projects/Olist-Retention-Analysis) | [Notebook](Projects/Olist-Retention-Analysis/outputs/Olist-Retention-Analysis.ipynb)
+
+![New vs Repeat Customers](Projects/Olist-Retention-Analysis/outputs/New_Repeat_Customers_Repeat%.png)
+
+------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Technical Skills
 
