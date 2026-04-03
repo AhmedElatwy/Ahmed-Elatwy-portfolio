@@ -9,7 +9,7 @@
 
 ## Data Analyst | Turning Data into Revenue-Driving Insights  
 
-**I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit—using data you already have.**
+**I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit using data you already have.**
 
 🚀 Let's Fix Your Data  
 → [Book a free 15-min discovery call](https://calendly.com/ahmed-abbas-elatwy/15min)
@@ -23,11 +23,17 @@
 
 I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned to translate complex industrial data into business decisions. I understand the Egyptian market, speak your language, and deliver insights you can actually use.
 
-**Technical Skills:**
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- **Data Visualization:** Power BI, Excel, Matplotlib, Seaborn
-- **Data Analysis:** Statistical Analysis, Data Cleaning, EDA, Predictive Modeling
-- **Tools:** Jupyter Notebook, Git, SQL, Excel Advanced Formulas
+------------------------------------------------------------------------------------------------------------
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Python, SQL |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Visualization** | Power BI, Excel, Tableau, Plotly |
+| **Tools** | Jupyter Notebook, Git, GitHub |
+| **Methodologies** | Data Cleaning, EDA, Statistical Analysis, Retention Analysis, Machine Learning |
 
 ------------------------------------------------------------------------------------------------------------
 ## 📦 How I Can Help You
@@ -232,18 +238,6 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 [GitHub Repository](Projects/Olist-Retention-Analysis) | [Notebook](Projects/Olist-Retention-Analysis/outputs/Olist-Retention-Analysis.ipynb)
 
 ![New vs Repeat Customers](Projects/Olist-Retention-Analysis/outputs/New_Repeat_Customers.png)
-
-------------------------------------------------------------------------------------------------------------
-
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-|----------|--------------|
-| **Programming** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| **Visualization** | Power BI, Excel, Plotly |
-| **Tools** | Jupyter Notebook, Git, GitHub |
-| **Methodologies** | Data Cleaning, EDA, Statistical Analysis, Machine Learning |
 
 ------------------------------------------------------------------------------------------------------------
 
