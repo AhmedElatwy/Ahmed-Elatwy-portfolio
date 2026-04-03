@@ -184,7 +184,7 @@ Client Type: "Brazilian Multi-Category E-Commerce Marketplace (Olist) with 100K+
 
 [GitHub Repository](Projects/Olist-Retention-Analysis) | [Notebook](Projects/Olist-Retention-Analysis/outputs/Olist-Retention-Analysis.ipynb)
 
-![New vs Repeat Customers](Projects/Olist-Retention-Analysis/outputs/New_Repeat_Customers_Repeat%.png)
+![New vs Repeat Customers](Projects/Olist-Retention-Analysis/outputs/New_Repeat_Customers.png)
 
 ------------------------------------------------------------------------------------------------------------
 
