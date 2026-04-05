@@ -1,4 +1,3 @@
-```markdown
 # 💡 Business Recommendations: Olist Retention Analysis
 
 > *Actionable insights from analyzing 100K+ e-commerce orders*
@@ -149,8 +148,8 @@ Upside:
 
 ## 📬 Contact & Collaboration
 
-**Author**: [Ahmed A. Elatwy]  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-elatwy/) | 📧 [Email Me](ahmed.abbas.elatwy@gmail.con)
+**Author**: Ahmed A. Elatwy
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-elatwy/) || 📧 [Email Me](ahmed.abbas.elatwy@gmail.con)
 
 **Open to**:
 - Full-time Data Analyst roles (Egypt or remote)
@@ -159,4 +158,3 @@ Upside:
 
 *If you found this analysis helpful, let's connect! I offer free 30-minute retention consults to Egyptian e-commerce founders.*
 
-```
