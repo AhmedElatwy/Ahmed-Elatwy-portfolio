@@ -12,7 +12,7 @@
 **I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit using data you already have.**
 
 🚀 Let's Fix Your Data  
-→ email "AUDIT" to ahmed.abbas.elatwy@gmail.com for a free dataset review  
+→ email "AUDIT" to **[ahmed.abbas.elatwy@gmail.com](mailto:ahmed.abbas.elatwy@gmail.com)** for a free dataset review  
 
 *Response time: <24 hours. No obligation. 100% confidential.*
 
