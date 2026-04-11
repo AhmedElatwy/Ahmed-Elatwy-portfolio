@@ -216,7 +216,7 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 ![Map](Projects/E-Commerce-Revenue-Logistics-Analysis-SQL/Findings/Map.png)
 
 ------------------------------------------------------------------------------------------------------------
-### 📈 Case Study #7: Olist E-Commerce Retention Analysis
+### 📈 Case Study: Olist E-Commerce Retention Analysis
 - **Client Type:** Brazilian Multi-Category E-Commerce Marketplace (Olist) with 100K+ Orders
 
 - **Problem:** 96.9% of customers never make a second order; no visibility into why customers don't return or where the biggest revenue opportunities lie for improving retention
@@ -241,13 +241,41 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 
 ------------------------------------------------------------------------------------------------------------
 
+### 📈 Case Study: SaaS Customer Churn & Payment Friction Analysis
+
+**Client Type:** B2B SaaS Company with Subscription Revenue Model (2,800 Customer Records)
+
+- **Problem:** 
+  - 57.3% overall churn rate (~3.2% monthly) with $1M+ MRR at risk
+  - no clarity on whether churn was driven by plan type, product fit, or operational friction like payment failures
+
+- **My Approach:** 
+  - Analyzed 2,800 customer records using Python (Pandas, SciPy)
+  - applied chi-square testing to validate plan-level churn differences
+  - modeled revenue impact of payment failure interventions
+  - prioritized recommendations using statistical significance + business impact + effect size framework
+
+- **Result:** 
+  - Identified payment failures (2+) as primary churn driver (60-70% higher risk), NOT plan type (p=0.63)
+  - Quantified $270K salvageable MRR from at-risk active customers
+  - Projected $81K-135K/month recoverable revenue with 30-50% churn reduction
+  - Delivered 3 prioritized, ROI-backed retention plays with <1-month payback  
+
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy (Chi-Square, Statistical Modeling), Revenue Forecasting  
+
+**[GitHub Repository](Projects/SaaS-Customer-Churn-Payment-Friction-Analysis)**
+
+![Executive Summary](Projects/SaaS-Customer-Churn-Payment-Friction-Analysis/Visuals/Exceutive_Summary.png)
+
+
+---
+
 ------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
 🚀 Let's Fix Your Data  
-→ [Book a free 15-min discovery call] (Calendly link)  
-→ email "AUDIT" to ahmed.abbas.elatwy@gmail.com for a free dataset review  
+→ email "AUDIT" to [ahmed.abbas.elatwy@gmail.com](mailto:ahmed.abbas.elatwy@gmail.com) for a free dataset review  
 
 Available for calls Sat-Thu, 5 PM → 1 AM EET (Cairo time).
 
