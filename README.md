@@ -12,8 +12,6 @@
 **I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit using data you already have.**
 
 🚀 Let's Fix Your Data  
-→ [Book a free 15-min discovery call](https://calendly.com/ahmed-abbas-elatwy/15min)
-
 → email "AUDIT" to ahmed.abbas.elatwy@gmail.com for a free dataset review  
 
 *Response time: <24 hours. No obligation. 100% confidential.*
