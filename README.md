@@ -11,11 +11,6 @@
 
 **I help e-commerce & industrial businesses reduce churn, optimize pricing, and uncover hidden profit using data you already have.**
 
-🚀 Let's Fix Your Data  
-→ email "AUDIT" to **[ahmed.abbas.elatwy@gmail.com](mailto:ahmed.abbas.elatwy@gmail.com)** for a free dataset review  
-
-*Response time: <24 hours. No obligation. 100% confidential.*
-
 ------------------------------------------------------------------------------------------------------------
 ## 👋 Why Work With Me?
 
@@ -32,29 +27,6 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 | **Visualization** | Power BI, Excel, Tableau, Plotly |
 | **Tools** | Jupyter Notebook, Git, GitHub |
 | **Methodologies** | Data Cleaning, EDA, Statistical Analysis, Retention Analysis, Machine Learning |
-
-------------------------------------------------------------------------------------------------------------
-## 📦 How I Can Help You
-
-| Service | What You Get | Investment |
-|---------|-------------|------------|
-| **Data Health Check** | 1-page audit + 3 actionable insights | 150 EGP (~$5) |
-| **Mini Dashboard** | Power BI dashboard, 3 KPIs, weekly updates | 600 EGP (~$10) |
-| **Custom Analysis** | Churn, pricing, logistics—scoped to your needs | Quote (starting 1,200 EGP) |
-
-*Payment via Vodafone Cash, bank transfer, or PayPal. Introductory pricing for first 5 clients.*
-
-👉 [Book a free 15-min call to pick the right starting point](https://calendly.com/ahmed-abbas-elatwy/15min)
-
-------------------------------------------------------------------------------------------------------------
-
-## 🔄 How It Works
-
-1. **Book a free 15-min call** → We clarify your goal & data situation  
-2. **Send your dataset** (Excel/CSV) → I analyze & build your deliverable  
-3. **Get actionable insights** → You implement, I support  
-
-*Average turnaround: 48 hours for Health Check, 5 days for Mini Dashboard*
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -269,18 +241,6 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 ---
 
 ------------------------------------------------------------------------------------------------------------
-
-## 📫 Connect With Me
-
-🚀 Let's Fix Your Data  
-→ email "AUDIT" to [ahmed.abbas.elatwy@gmail.com](mailto:ahmed.abbas.elatwy@gmail.com) for a free dataset review  
-
-Available for calls Sat-Thu, 5 PM → 1 AM EET (Cairo time).
-
-*Response time: <24 hours. No obligation. 100% confidential.*
-
-------------------------------------------------------------------------------------------------------------
-
 
 ## 📄 Certifications
 
