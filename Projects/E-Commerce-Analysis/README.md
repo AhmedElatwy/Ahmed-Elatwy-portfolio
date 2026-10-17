@@ -101,7 +101,10 @@ Analyzed customer retention rates over time.
 - **Top Product:** "REGENCY CAKESTAND 3 TIER" is the top revenue-generating product ($116k).
 - **Market Concentration:** The UK drives over 80% of all revenue. The Netherlands shows a higher value per order than Germany, suggesting an untapped opportunity.
 
-*(For a full list of insights, refer to the [Executive Summary]([Link to your Executive Summary PDF]))*
+### 📦 Operations & Margin Protection Insights (New)
+* **True Basket Economics:** Corrected transaction-level aggregation across **25.90K unique invoices**, revealing a true **Average Order Value (AOV) of $375.52**—driven heavily by B2B wholesale buyers in the **Netherlands** (21.44% of non-UK revenue from just 5.14% of orders) and **EIRE** (19.81% of revenue).
+* **Margin Erosion & Return Rate (8.42%):** Identified **$893.98K in lost revenue** from cancelled orders and returned stock. 
+* **SKU-Level Quality Control:** Isolated high-return catalog items excluding administrative fees. Found that while **Medium Ceramic Top Storage Jar (94.83%)** and **Pantry Chopping Board (81.84%)** were skewed by bulk B2B order cancellations, core items like **Fairy Cake Flannel (36.50%)**, **Feltcraft Doll Molly (29.27%)**, and **Ivory Diner Wall Clock (22.28%)** experience consistent return rates—indicating supplier quality or fragile packaging bottlenecks.
 
 ## 🚀 Executive Summary & Business Recommendations
 
