@@ -26,7 +26,7 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 ## 📈 Dataset
 
 - **Source:** [Kaggle - E-Commerce Dataset]
-- **Description:** A transnational data set which contains all the transactions occurring between [Date Range, e.g., 01/12/2010 and 09/12/2011].
+- **Description:** A transnational data set which contains all the transactions occurring between [01/12/2010 to 09/12/2011].
 - **Size:** 541910 of transactions, 4260 Unique customer, 3600 Unique products.
 - **Original Columns:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
@@ -95,7 +95,7 @@ Analyzed customer retention rates over time.
 - **Clear Shopping Patterns:** Sales peak on **Thursdays** and during **mid-day hours (10 AM - 3 PM)**, which generates nearly **80% of daily revenue**.
 
 ### Product & Sales Analysis
-- **Top Product:** "REGENCY CAKESTAND 3 TIER" is the top revenue-generating product ($116).
+- **Top Product:** "REGENCY CAKESTAND 3 TIER" is the top revenue-generating product ($116k).
 - **Market Concentration:** The UK drives over 80% of all revenue. The Netherlands shows a higher value per order than Germany, suggesting an untapped opportunity.
 
 *(For a full list of insights, refer to the [Executive Summary]([Link to your Executive Summary PDF]))*
