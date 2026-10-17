@@ -14,7 +14,10 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/9e7bf7923a6d7d0baba8a59e1329b06ce29153cc/Projects/E-Commerce-Analysis/Visual/Summary%20Dashboard%202.png)
+![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/76e4f2f5461c1184869cceb6c2020b00b9e572d9/Projects/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
+![Customers Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/76e4f2f5461c1184869cceb6c2020b00b9e572d9/Projects/E-Commerce-Analysis/Visual/Cohort_dashboard.png)
+![Products Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/76e4f2f5461c1184869cceb6c2020b00b9e572d9/Projects/E-Commerce-Analysis/Visual/Product_Dashboard.png)
+
 
 ## 🧰 Tools & Technologies
 
