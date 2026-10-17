@@ -58,28 +58,32 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 ------------------------------------------------------------------------------------------------------------
 
 
-### 📈 Case Study: E-Commerce Data Analysis & Customer Segmentation
+### 📈 Case Study: E-Commerce Retail Operations, Margin Protection & Customer Segmentation
 
-- **Client Type:** Transnational E-Commerce Retailer (B2B/B2C) with 4,200+ customers across multiple countries
+- **Client Type:** Transnational E-Commerce & Wholesale Retailer (B2B/B2C) managing 3,600+ SKUs and 4,200+ customers across 35+ countries
 
-- **Problem:** No unified view of customer value or behavior: marketing spend was inefficient, churn was unaddressed, and high-value segments were being overlooked  
+- **Problem:** Lack of visibility into true basket economics, product-level return leakage, and customer churn—leading to $890K+ in unaddressed margin erosion, unoptimized inventory, and inefficient marketing spend
 
 - **My Approach:**
-  - Analyzed 540K+ transactions using Python (Pandas, RFM + Cohort analysis)
-  - engineered a two-tier dataset strategy to separate financial reporting from behavioral analysis
-  - built interactive Power BI dashboard for executive decision-making
+  - Processed 541.9K+ transaction lines (25.9K unique invoices) using Python, engineering a two-tier data pipeline (`business_df` for financial ledger accuracy vs. `analysis_df` for customer behavior)
+    
+  - Built custom DAX quality-control measures in Power BI to isolate SKU-level return rates, filter out accounting noise, and track order basket depth (AOV & UPT)
+    
+  - Conducted RFM Customer Segmentation and 12-month Cohort Retention modeling to map customer lifetime value and churn windows
 
 - **Result:**
-  - Identified 'Champions' segment (643 customers) driving ~80% of revenue
-  - discovered 80% of daily revenue concentrates on Thursdays 10AM–3PM
-  - revealed 3-month retention drop-off; delivered 4 actionable strategies including VIP program and targeted win-back campaigns
+  - **Margin Protection & Quality Control:** Exposed **$893.98K in revenue leakage (8.42% return rate)** and flagged high-return catalog items (17%–36.5% recurring return rates) to fix supplier quality and packaging bottlenecks
+    
+  - **Commercial & Basket Economics:** Uncovered a true **Average Order Value (AOV) of $375.52**, showing that B2B wholesale buyers in the Netherlands and EIRE generate **41.2% of international revenue from just 12.9% of orders**
+    
+  - **Customer Retention & Operations:** Identified that **34.1% of customers ('Champions' & 'Loyal') drive $6.0M+ of revenue**, pinpointed a critical **Month-2 retention drop-off**, and mapped peak order traffic (**Thursdays, 10 AM – 3 PM**) to optimize warehouse staffing and ad scheduling
 
-- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Git/GitHub  
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI (DAX), Tableau, Git/GitHub
 
 **[Kaggle Notebook](https://www.kaggle.com/code/ahmedealtwy/e-commerce-analysis) | [GitHub](Projects/E-Commerce-Analysis) | [Executive Summary PDF](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/f05ce116202147f0e8b7037291c201c1ea2b6f4c/Excutive%20Summary.pdf)**
 
 
-![E-Commerce Business Analysis Dashboard](Projects/E-Commerce-Analysis/Visual/Summary-Dashboard-2.png)
+![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/76e4f2f5461c1184869cceb6c2020b00b9e572d9/Projects/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
 
 ------------------------------------------------------------------------------------------------------------
 
