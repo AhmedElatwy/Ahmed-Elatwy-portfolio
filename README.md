@@ -58,7 +58,7 @@ I'm not just a data analyst. I'm a Geophysics graduate + R&D Chemist who learned
 **[Kaggle Notebook](https://www.kaggle.com/code/ahmedealtwy/e-commerce-analysis) | [GitHub](Projects/E-Commerce-Analysis) | [Executive Summary PDF](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/f05ce116202147f0e8b7037291c201c1ea2b6f4c/Excutive%20Summary.pdf)**
 
 
-![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/76e4f2f5461c1184869cceb6c2020b00b9e572d9/Projects/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
+![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/blob/main/Projects/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
 
 ------------------------------------------------------------------------------------------------------------
 ### 📈 Case Study: London Real Estate Investment Estimator
