@@ -14,7 +14,7 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 ## 📊 Dashboard Preview
 
-![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/Projects/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
+![Summary Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/Projects/blob/E-Commerce-Analysis/Visual/Summary_Dashboard.png)
 
 ![Customers Dashboard](https://github.com/AhmedElatwy/Ahmed-Elatwy-portfolio/Projects/E-Commerce-Analysis/Visual/Cohort_dashboard.png)
 
